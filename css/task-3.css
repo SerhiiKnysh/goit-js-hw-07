@@ -1,0 +1,12 @@
+#gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+}
+
+.gallery-list__item {
+    max-width: 50vw;
+    height: auto;
+    margin-bottom: 10px;
+}
